@@ -20,7 +20,8 @@ We can also filter based on multiple, or all, of the criteria:
 Again, because the data is somewhat limited, there will only be a few results which satisfy all search criteria. Below is one more exmaple in which we use multiple 
 searches -- the country (US) and shape (triangle):
 
-![image](https://user-images.githntent.com/1015285/125172231-1fc40100-e17e-11eb-956f-61415bdc552a.png)
+![image](https://user-images.githubusercontent.com/1015285/125172530-e5f3fa00-e17f-11eb-980b-ff5041e079dc.png)
+
 
 ### Summary
 This project is a useful mock-up of an interactive database that might be used in journalism, or other domains. It introudces the data through text, color and imagery, and uses a readable, intuitive design that most users would be able to easily operate. I alluded to what I believe is the primary drawback earlier -- the small dataset, which doesn't really allow for nuanced analysis or conclusions. However, this is merely a starting point, and isn't *truly* the purpose of the project -- to practice using HTML and JavaScript. That problem could also easily be addressed and incorporated into the framework of the page if desired.
